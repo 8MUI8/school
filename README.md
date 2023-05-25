@@ -6,10 +6,14 @@ Det gikk smidig og har ikke fått noen problemer med det
 
 09.mar 
 Fikk til å legg forskjellige API og de jeg bruker ligger in Nettside.rar in folderen py.
+
 Bruker:
+
 Steam
+
 Discord
-Snart twitter
+
+Twitter
 
 16.mar
 
