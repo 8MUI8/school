@@ -23,5 +23,7 @@ spille er klar men mangler at snaken skal ta til seg maten
 
 # Politikere
 25.april for muntlig eksamen
+
 politiker.py
+
 parti.py
