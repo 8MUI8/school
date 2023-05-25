@@ -7,13 +7,13 @@ Det gikk smidig og har ikke fått noen problemer med det
 09.mar 
 Fikk til å legg forskjellige API og de jeg bruker ligger in Nettside.rar in folderen py.
 
-Bruker:
+API Liste:
 
-Steam
+Steam API
 
-Discord
+Discord API
 
-Twitter
+Twitter API
 
 16.mar
 
