@@ -21,6 +21,9 @@ Twitter API
 13.april
 spille er klar men mangler at snaken skal ta til seg maten
 
+# PLOT
+
+
 # CSV
 
 
