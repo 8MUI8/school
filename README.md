@@ -24,11 +24,7 @@ spille er klar men mangler at snaken skal ta til seg maten
 # PLOT
 
 
-# CSV
-
-
-
-# Politikere
+# CSV OM Politikere
 25.april for muntlig eksamen
 
 politiker.py
