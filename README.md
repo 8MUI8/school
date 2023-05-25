@@ -17,3 +17,9 @@ Snart twitter
 13.april
 spille er klar men mangler at snaken skal ta til seg maten
 
+# CSV
+
+
+
+#Politikere
+25.april for muntlig eksamen
