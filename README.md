@@ -21,5 +21,5 @@ spille er klar men mangler at snaken skal ta til seg maten
 
 
 
-#Politikere
+# Politikere
 25.april for muntlig eksamen
